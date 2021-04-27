@@ -24,6 +24,9 @@ Install
 ---------
 The app is not hosted on any platform so you need to download it from here.
 
+<a href="https://drive.google.com/file/d/1loaZdJ2a-0gX2srL2N4hDPl-neC57QI5/view?usp=sharing" target="_blank">
+	<button>Download</button>
+
 Contribute
 ---------
 Contribute to this app so we can host and make this a good open source project.
